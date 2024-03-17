@@ -1,0 +1,9 @@
+nipr,License ID,Jurisdiction,Resident,License Class,License Effective Date,License Expiry Date,License Status,License Line,License Line Effective Date,License Line Expiry Date,License Line Status
+41581153, 73126, NY, Y, RES, 11/01/2012, 02/01/2012, Y, Property T2, 14/12/2014, 02/01/2012, N
+41581153, 73126, NY, Y, RES, 11/01/2012, 02/01/2012, Y, Casualty, 04/22/2002, 02/01/2012, Y
+41581153, 73126, NY, Y, RES, 11/01/2012, 02/01/2012, Y, Health, 05/16/2017, 02/01/2012, Y
+41581153, 73126, NY, Y, RES, 11/01/2012, 02/01/2012, Y, Life, 10/01/2001, 02/01/2012, Y
+41581153, 73126, NY, Y, RES, 11/01/2012, 02/01/2012, Y, Property, 04/22/2002, 02/01/2012, Y
+41581153, 73126, NY, Y, RES, 11/01/2012, 02/01/2012, Y, Surety, 04/22/2002, 02/01/2012, Y
+41581153, 73126, NY, Y, RES, 11/01/2012, 02/01/2012, Y, Motor Club, 04/22/2002, 02/01/2012, N
+41581153, 73126, NY, Y, RES, 11/01/2012, 02/01/2012, Y, Motor Club 1, 04/22/2012, 02/01/2012, N
